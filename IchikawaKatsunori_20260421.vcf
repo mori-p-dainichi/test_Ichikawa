@@ -9,7 +9,8 @@ X-PHONETIC-ORG:ダイニチインサツカブシキガイシャ
 TITLE:営業部マネージャー
 TEL;TYPE=CELL:09081510886
 TEL;TYPE=WORK:0564628461
-EMAIL:mail@p-dainichi.com
+EMAIL;TYPE=WORK:mail@p-dainichi.com
+EMAIL;TYPE=HOME:ichikawa@p-dainichi.com
 URL:https://www.p-dainichi.com
 ADR;TYPE=WORK:;;愛知県額田郡幸田町大字坂崎字石ノ塔46-1;;;;
 NOTE:オンデマンド印刷・短納期対応可能
